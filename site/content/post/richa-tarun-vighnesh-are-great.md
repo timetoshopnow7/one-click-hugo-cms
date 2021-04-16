@@ -1,5 +1,5 @@
 ---
-title: Richa Tarun Vighnesh Are Great
+title: Richa Tarun Vighnesh Are Great and they are a great family.
 date: 2021-04-16T09:05:21.814Z
 description: We all love learningg different things everyday... Tarun Richa Vighnesh
 image: img/about-reinvest-profits.jpg
