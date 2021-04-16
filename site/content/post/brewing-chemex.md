@@ -1,9 +1,7 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: Richa Tarun Vighnesh Are Great
 date: 2021-04-16T15:04:00.000Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
+description: We all love learningg different things everyday... Tarun Richa Vighnesh
 image: img/about-reinvest-profits.jpg
 ---
 
