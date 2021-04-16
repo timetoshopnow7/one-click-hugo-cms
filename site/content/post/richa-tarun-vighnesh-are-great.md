@@ -2,7 +2,7 @@
 title: Richa Tarun Vighnesh Are Great and they are a great family.
 date: 2021-04-16T09:05:21.814Z
 description: We all love learningg different things everyday... Tarun Richa Vighnesh
-image: img/about-reinvest-profits.jpg
+image: img/about-single-origin.jpg
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
